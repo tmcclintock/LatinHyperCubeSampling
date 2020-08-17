@@ -1,5 +1,6 @@
 numpy
 scipy
+pandas
 matplotlib
 pyDOE2
 notebook
