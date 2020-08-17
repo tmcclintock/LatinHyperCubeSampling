@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+pyDOE2
+notebook
+torch
+torchvision
