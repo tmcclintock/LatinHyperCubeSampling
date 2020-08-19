@@ -6,3 +6,4 @@ pyDOE2
 notebook
 torch
 torchvision
+pytorch-lightning

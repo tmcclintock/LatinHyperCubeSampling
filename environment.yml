@@ -1,0 +1,14 @@
+name: lhs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - pyDOE2
+  - notebook
+  - pytorch
+  - torchvision
+  - pytorch-lightning
