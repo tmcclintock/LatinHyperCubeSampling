@@ -1,4 +1,6 @@
 # data
+lightning_logs
+data/FashionMNIST/*
 *.csv
 
 # Byte-compiled / optimized / DLL files
